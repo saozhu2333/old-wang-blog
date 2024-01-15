@@ -32,4 +32,4 @@ htmldiv.addEventListener('mouseover',async function(e){
 })
 ```
 
- [示例](https://tutouguai.cn/PressDemo/one/index.html)
+ [演示案例](https://tutouguai.cn/PressDemo/one/index.html)

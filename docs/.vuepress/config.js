@@ -1,9 +1,9 @@
 module.exports = {
   title: '王路平',
-  description: '博客-测试',
-  // head: [
-  //   ['link', { rel: 'icon', href: '/logo.ico' }]
-  // ],
+  description: '这是一个博客',
+  head: [
+    ['link', { rel: 'icon', href: '/header.jpg' }]
+  ],
   themeConfig: {
     logo: '/header.jpg',
     lastUpdated:'上次更新',
@@ -19,6 +19,7 @@ module.exports = {
     },
     { text: '前端-案例', link: '/blog/case/' },
     { text: '掘金', link: 'https://juejin.cn/user/4330325551357245' },
+    { text: '简历', link: 'https://www.tutouguai.cn/resume/index.html' },
       // {
       //   text: '语言', ariaLabel: 'Language Menu',
       //   items: [{ text: '中文', link: '/' }, { text: '英文', link: '/' }

@@ -7,7 +7,7 @@
 
 :::
 
- [示例](https://tutouguai.cn/PressDemo/two/index.html)
+ [演示案例](https://tutouguai.cn/PressDemo/two/index.html)
  
  #### 实现
 
