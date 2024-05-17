@@ -45,6 +45,7 @@ module.exports = {
             ['/blog/case/two', '2、拖拽排序'],
             ['/blog/case/three', '3、Flip动画效果'],
             ['/blog/case/four', '4、websocket心跳检测'],
+            ['/blog/case/five', '5、github/gitee webhooks+node进行vue简单热部署'],
           ]
         }]
       },
@@ -71,6 +72,7 @@ module.exports = {
             ['/us/blog/case/two', '2、Drag and drop sorting'],
             ['/us/blog/case/three', '3、Flip animation effects'],
             ['/us/blog/case/four', '4、WebSocket Heartbeat Detection'],
+            ['/us/blog/case/five', '5、github/gitee Github/gitee webhooks+node for hot deployment of Vue'],
           ]
         }]
       },
